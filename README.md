@@ -25,8 +25,33 @@
 <p align="center">
   <a href="#-software-engineering-roadmap-faang-edition">Explore the Roadmap</a> •
   <a href="#-what-this-covers">What You'll Learn</a> •
-  <a href="#-real-world-projects">Projects</a>
+  <a href="#-real-world-projects">Projects</a> •
+  <a href="#-table-of-contents">Contents</a>
 </p>
+
+<p align="center">
+  <b>software engineering roadmap</b> · <b>FAANG interview preparation</b> · <b>DSA & algorithms</b> · <b>system design</b> · <b>full-stack development</b> · <b>DevOps & cloud</b> · <b>computer science fundamentals</b>
+</p>
+
+---
+
+## 📖 Table of Contents
+
+- [🚀 Software Engineering Roadmap (FAANG Edition)](#-software-engineering-roadmap-faang-edition)
+- [📌 What This Covers](#-what-this-covers)
+- [🏗️ 1. Foundations](#️-1-foundations-non-negotiable)
+- [🎨 2. Frontend Engineering](#-2-frontend-engineering)
+- [⚙️ 3. Backend Engineering](#️-3-backend-engineering)
+- [🗄️ 4. Databases](#️-4-databases)
+- [🔢 5. Algorithms & Data Structures](#-5-algorithms--data-structures-faang-critical)
+- [🏗️ 6. System Design](#️-6-system-design)
+- [☁️ 7. DevOps & Cloud](#️-7-devops--cloud)
+- [🏗️ 8. Real-World Projects](#️-8-real-world-projects)
+- [💼 9. FAANG Interview Strategy](#-9-faang-interview-strategy)
+- [⏳ Realistic Timeline](#-realistic-timeline)
+- [🧠 Final Principles](#-final-principles)
+- [🗺️ Suggested Learning Order](#️-suggested-learning-order)
+- [🤝 Contributing](#-contributing)
 
 ---
 
@@ -337,18 +362,26 @@ This order is a suggestion, not a rigid rule. Revisit earlier topics when projec
 
 ---
 
+## 📚 Topics & Keywords
+
+This roadmap is relevant if you are searching for:
+
+`software engineering roadmap` · `software engineer roadmap` · `developer roadmap` · `computer science roadmap` · `coding roadmap` · `programming roadmap` · `web development roadmap` · `backend developer roadmap` · `frontend developer roadmap` · `full stack developer roadmap` · `data structures and algorithms` · `DSA roadmap` · `algorithms` · `leetcode preparation` · `coding interview preparation` · `FAANG interview preparation` · `system design interview` · `system design primer` · `distributed systems` · `cloud computing` · `devops roadmap` · `docker` · `kubernetes` · `AWS` · `GCP` · `Azure` · `learn to code` · `career in tech` · `beginner to advanced` · `interview preparation` · `computer science fundamentals`
+
+---
+
 ## 🤝 Contributing
 
 Suggestions, corrections, and useful resource recommendations are welcome. If you want to contribute, open an issue describing the proposed change or submit a pull request with a clear explanation.
 
----
-
-## ⭐ Support This Roadmap
-
-If this roadmap is useful to you, consider giving the repository a star. It helps you find it again and may help other developers discover it.
+If this roadmap helps you, please **star ⭐ the repository**, **fork 🍴 it**, and **share 🔗 it** with other developers. Stars help this guide reach more people learning software engineering and preparing for technical interviews.
 
 ---
 
 <p align="center">
   <sub>Learn the fundamentals. Build real systems. Measure progress. Keep improving.</sub>
+</p>
+
+<p align="center">
+  <b>⭐ Star this repo if it helped you — it helps others find it too.</b>
 </p>
